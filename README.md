@@ -68,7 +68,7 @@ Queste misure sono di interesse già di per sé e possono portare a considerazio
 
 A questo punto è stato creato un tool per mostrare il cluster di appartenenza del cliente sul CRM aziendale su ogni singola anagrafica del cliente. In questo modo l'operatore ha un'informazione aggiuntiva sul valore del cliente per l'azienda. Sulla base del cluster di appartenenza e dell'analisi delle caratteristiche che influenzano il Lifetime value sono state definite una serie di Next Best Action (NBA) che vengono presentate all'operatore mediante un menù a tendina sul CRM nelle quali vengono sugerite azioni di Upselling/Caring e/o il passaggio all'operatore Team Leader di sala per gestire la casistica.
 
-<img src="./NBA.png" width="600" height="500">
+![NBA](https://github.com/FlavioCanonico/customer_lt_ltv/blob/master/NBA.png)
 
 Inoltre questi dati potranno essere utilizzati per azioni outbound per la churn prevention o per azioni di customer caring, allo scopo di massimizzare il tempo di permanenza dei clienti e il loro potenziale valore economico per l'azienda.
 
