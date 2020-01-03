@@ -1,7 +1,7 @@
 # Customer Lifetime e Lifetime Value
 Estimate customer lifetime and lifetime value using Random Survival Forest Algorithm
 
-Il progetto mira a stimare il fenomeno dell'abbandono dei clienti (customer churn) in una società che opera nel settore energetico e delle telecomunicazioni. L'evento del churn è definito come il momento in cui il cliente rescinde il contratto e disattiva le proprie utenze. Il progetto è ad oggi implementato nei sistemi aziendali in produzione in diverse forme, che verranno discusse brevemente più avanti. Inoltre la parte più tecnica è stata oggetto di un lavoro di tesi magistrale. Per approfondimenti dettagliati sull'implementazione dell'algoritmo e i risultati ottenuto si veda il lavoro di tesi allegato in formato pdf al presente repository.
+Il progetto mira a stimare il fenomeno dell'abbandono dei clienti (customer churn) in una società che opera nel settore energetico e delle telecomunicazioni. L'evento del churn è definito come il momento in cui il cliente rescinde il contratto e disattiva le proprie utenze. Il progetto è ad oggi implementato nei sistemi aziendali in produzione in diverse forme, che verranno discusse brevemente più avanti. Inoltre la parte più tecnica è stata oggetto di un lavoro di tesi magistrale. *Per approfondimenti dettagliati sull'implementazione dell'algoritmo e i risultati ottenuto **si veda il lavoro di tesi allegato** in formato pdf al presente repository.*
 
 Gli **obiettivi** sono:
 - Stima della probabilità di abbandono per mese in un range temporale di 42 mesi
