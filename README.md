@@ -72,7 +72,8 @@ A questo punto è stato creato un tool per mostrare il cluster di appartenenza d
 
 Inoltre questi dati potranno essere utilizzati per azioni outbound per la churn prevention o per azioni di customer caring, allo scopo di massimizzare il tempo di permanenza dei clienti e il loro potenziale valore economico per l'azienda.
 
-
+# Conclusioni
+Lo studio del fenomeno dell'abbandono dei clienti mediante strumenti statistici permette alle aziende di avere grossi vantaggi. In questo lavoro ci si è soffermati in particolare sulla stima del tempo di permanenza e delle sue cause. Si è inoltre posta particolare enfasi sull'ottenimento di una stima del valore economico prospettico del cliente e la definizione di cluster di clienti su cui intervenire in maniera proattiva. Si tratta di strumenti molto flessibili. Il concetto di Next Best Action ad esmepio può essere utilizzato per molteplici scopi e in diversi campi di business, dal campo della customer base management fino al marketing, alle vendite e così via.
 
 
 
